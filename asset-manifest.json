@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/DevOpsProject/static/css/main.b123325e.chunk.css",
+    "main.js": "/DevOpsProject/static/js/main.452dd636.chunk.js",
+    "main.js.map": "/DevOpsProject/static/js/main.452dd636.chunk.js.map",
+    "runtime-main.js": "/DevOpsProject/static/js/runtime-main.9eb9f983.js",
+    "runtime-main.js.map": "/DevOpsProject/static/js/runtime-main.9eb9f983.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/DevOpsProject/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3daea747.chunk.js": "/DevOpsProject/static/js/2.3daea747.chunk.js",
+    "static/js/2.3daea747.chunk.js.map": "/DevOpsProject/static/js/2.3daea747.chunk.js.map",
+    "index.html": "/DevOpsProject/index.html",
+    "precache-manifest.dacf621d5eabf2375e94e7970eb1f4b1.js": "/DevOpsProject/precache-manifest.dacf621d5eabf2375e94e7970eb1f4b1.js",
+    "service-worker.js": "/DevOpsProject/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/DevOpsProject/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.b123325e.chunk.css.map": "/DevOpsProject/static/css/main.b123325e.chunk.css.map",
+    "static/js/2.3daea747.chunk.js.LICENSE.txt": "/DevOpsProject/static/js/2.3daea747.chunk.js.LICENSE.txt",
+    "static/media/KeyStoreLogo.png": "/DevOpsProject/static/media/KeyStoreLogo.82151fa8.png",
+    "static/media/car_keychains_image.jpg": "/DevOpsProject/static/media/car_keychains_image.8273c5b0.jpg",
+    "static/media/car_keys_image.jfif": "/DevOpsProject/static/media/car_keys_image.9dc617b8.jfif",
+    "static/media/finki_icon.png": "/DevOpsProject/static/media/finki_icon.2c8ddfdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eb9f983.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3daea747.chunk.js",
+    "static/css/main.b123325e.chunk.css",
+    "static/js/main.452dd636.chunk.js"
+  ]
+}
