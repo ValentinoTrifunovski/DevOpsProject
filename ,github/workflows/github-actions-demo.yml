@@ -2,8 +2,7 @@ name: Build and Push Docker Compose to Docker Hub
 
 on:
   push:
-    branches:
-      - master
+    branches: [ "master" ]
 
 jobs:
   build-and-push:
